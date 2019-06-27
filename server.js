@@ -35,12 +35,7 @@ var characters = [
     role: "Jedi Master",
     age: 55,
     forcePoints: 1350
-  },
-    routeName: "becky",
-    name: "Bexter",
-    role: "Race Queen",
-    age: 25,
-    forcePoints: 100000000
+  }
 ];
 
 // Routes
